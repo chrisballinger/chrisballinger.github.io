@@ -10,6 +10,7 @@ image:
   creditlink: http://www.flickr.com/photos/chrisballinger/11314777016/in/set-72157638559926193
 comments: false
 share: true
+category: blog
 ---
 
 <figure>
