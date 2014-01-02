@@ -44,7 +44,7 @@ You can also follow ChatSecure on [Twitter](https://twitter.com/ChatSecure) or [
 
 The source code for both projects is hosted on GitHub.
 
-* [iOS](https://guardianproject.info/apps/chatsecure/) / [License](https://github.com/chrisballinger/Off-the-Record-iOS/blob/master/LICENSE) (GPLv3+)
+* [iOS](https://github.com/chrisballinger/Off-the-Record-iOS) / [License](https://github.com/chrisballinger/Off-the-Record-iOS/blob/master/LICENSE) (GPLv3+)
 * [Android](https://github.com/guardianproject/ChatSecureAndroid) - [License](https://github.com/guardianproject/ChatSecureAndroid/blob/master/LICENSE) (Apache 2.0)
 
 # Donate
