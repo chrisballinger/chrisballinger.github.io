@@ -27,24 +27,21 @@ background: ps_neutral.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-28188864-1
-google_verify:      
+google_verify:      Yh1UsHUXpnWErtD2p2hKBs7DurKB2laKHS4tFVL_-wQ
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: ChatSecure
-    url: https://chatsecure.org
-    external: true
-  - title: OpenWatch
-    url: https://openwatch.net
-    external: true
+  - title: About Me
+    url: /about
+    external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
